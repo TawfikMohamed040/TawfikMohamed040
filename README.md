@@ -1,6 +1,6 @@
 # Hi there, I'm Tawfik Mohamed! 👋
 
-I'm a junior software engineer and competitive programmer passionate about technology and innovation. Currently, I'm pursuing my studies at the Faculty of Computer Science and Artificial Intelligence, Cairo University.
+I'm a junior software engineer and competitive programmer passionate about technology and innovation. Currently, I'm have graduated from Faculty of Computer Science and Artificial Intelligence, Cairo University.
 
 ## 🛠️ Languages and Tools:
 
